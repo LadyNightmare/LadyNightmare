@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Wolf and Badger as a Python Developer 🐍
+- 🌱 I’m currently learning Python and Cloud services
+- 📫 How to reach me: @lady_devs at Twitter, @ladynightmare at Telegram
+- 😄 Pronouns: she/her
+
 <!--
 **LadyNightmare/LadyNightmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
