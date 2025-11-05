@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Wolf and Badger as a Python Developer 🐍
-- 🌱 I’m currently learning Python and Cloud services
+- 🔭 I’m currently working at xFarm as a Senior Python Developer 🐍
+- 🌱 I’m currently learning Cloud services, IA, and Clean Architectures
 - 📫 How to reach me: @lady_devs at Twitter, @ladynightmare at Telegram
 - 😄 Pronouns: she/her
 
