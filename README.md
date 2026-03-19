@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at xFarm as a Senior Python Developer 🐍
 - 🌱 I’m currently learning Cloud services, IA, and Clean Architectures
-- 📫 How to reach me: @lady_devs at Twitter, @ladynightmare at Telegram
+- 📫 How to reach me: @ladynightmare at Telegram
 - 😄 Pronouns: she/her
 
 <!--
